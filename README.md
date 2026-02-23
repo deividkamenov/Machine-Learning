@@ -6,13 +6,13 @@ Each subfolder (`HW1`, `HW2`, `HW3`, `HW4`, `HW5`, `HW7`, `HW8`) contains a sepa
 
 ### Structure
 
-- `HW1/` – Homework 1
-- `HW2/` – Homework 2
-- `HW3/` – Homework 3
-- `HW4/` – Homework 4
-- `HW5/` – Homework 5
-- `HW7/` – Homework 7
-- `HW8/` – Homework 8
+-HW1_Side_Puzzle_Ida_Star
+-HW2_NQueens_Min_Conflicts
+-HW3_Travelling_Salesman_Genetic_Algorithms
+-HW4_Tic_Tac_Toe_Game_Alpha_Beta_Pruning
+-HW5_Naive_Bayes_Classifier
+-HW7_kMeans
+-HW8_Neural_Network
 
 Inside each folder you will typically find:
 
